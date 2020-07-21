@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://forw3b.com</loc>
+        <lastmod>2020-02-11T07:59:21+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://forw3b.com/</loc>
+        <lastmod>2020-02-11T07:59:20+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://forw3b.com/?fbclid=IwAR1D01cuV4nvhQp5MHvFWFW5H6WjIjVSvn6juKAdpAzYGWnzHNfIw7q4sz4</loc>
+        <lastmod>2020-02-11T07:59:22+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://forw3b.com/blog</loc>
+        <lastmod>2020-02-11T07:59:21+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://forw3b.com/blog/1</loc>
+        <lastmod>2020-02-11T07:59:22+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://forw3b.com/blog/2</loc>
+        <lastmod>2020-02-11T07:59:22+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://forw3b.com/contact</loc>
+        <lastmod>2020-02-11T07:59:21+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>

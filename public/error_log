@@ -1,0 +1,5 @@
+[19-Sep-2019 04:24:06 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/cp328562/public_html/forw3b.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[19-Sep-2019 04:24:08 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/cp328562/public_html/forw3b.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[19-Sep-2019 04:24:14 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/cp328562/public_html/forw3b.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[19-Sep-2019 04:24:18 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/cp328562/public_html/forw3b.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[19-Sep-2019 04:24:20 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/cp328562/public_html/forw3b.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
